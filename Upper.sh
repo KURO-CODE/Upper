@@ -12,7 +12,7 @@
 #
 #~~~~~~~~~~~~~~~~~ INFO ~~~~~~~~~~~~~~~~~~~~
 #
-# Automate.
+# Automat.
 #
 #	+ Update
 #   + upgrad
@@ -156,7 +156,7 @@ ${W}    ┏━━━━━━━━━━━━━━━━━━━━━━━
     ┃                           ┃
     ┃${G}   Name${W}: Upper             ┃
     ┃${G}   Date${W}: 10/15/2018        ┃
-    ┃${G}   Type${W}: Automate          ┃
+    ┃${G}   Type${W}: Automat           ┃
     ┃${G}   Dev${W}: Shell              ┃
     ┃${G}   Ver${W}: $Ver                ┃
     ┃${G}   Coder${W}: Kuro-Code        ┃
