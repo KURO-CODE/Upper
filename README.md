@@ -1,4 +1,4 @@
-# Upper
+# Upper ![](https://img.shields.io/badge/Upper-Shell-green.svg)
 
 ![Upper.ogv.gif](https://github.com/KURO-CODE/Upper/blob/master/Upper.ogv.gif)
 
@@ -11,8 +11,9 @@ Automate.
 * Date: 10/15/2018
 
 # Use # 
-
-1. git clone https://github.com/KURO-CODE/Upper.git
-2. cd Upper
-3. sudo chmod +x Upper.sh
-4. ./Upper.sh
+```
+git clone https://github.com/KURO-CODE/Upper.git
+cd Upper
+sudo chmod +x Upper.sh
+./Upper.sh
+```
